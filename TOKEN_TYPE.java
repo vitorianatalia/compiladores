@@ -1,0 +1,51 @@
+/* 
+* Autores: 
+*	Allan Amaral Sant'Anna Rocha (201935001) & Vitoria Natalia Caetano (201935030)
+*/
+
+
+public enum TOKEN_TYPE {
+    ID_VALUE,
+    INT_VALUE,
+    FLOAT_VALUE,
+    TYPE,
+    CHAR_VALUE,
+    FALSE,
+    TRUE,
+    NULL,
+    EQ,
+    SEMI,
+    TIMES,
+    PLUS,
+    BRACES_OPEN,
+    BRACES_CLOSE,
+    PARENTHESES_OPEN,
+    PARENTHESES_CLOSE,
+    BRACKETS_OPEN,
+    BRACKETS_CLOSE,
+    MORE_THAN,
+    COLON,
+    TWO_COLON,
+    PERIOD,
+    COMMA,
+    LESS_THAN,
+    EQ_LOGIC,
+    DIFFERENT,
+    SUBTRACTION,
+    DIVISION,
+    MOD,
+    AND,
+    NEGATION,
+    DATA,
+    INT,
+    CHAR,
+    BOOL,
+    FLOAT,
+    IF,
+    ELSE,
+    ITERATE,
+    READ,
+    PRINT,
+    RETURN,
+    NEW
+}

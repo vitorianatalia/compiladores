@@ -1,0 +1,6 @@
+a = /* comentario 1*/  53;
+b = {- comentario 2-} 24;
+c = a + b * 3;
+-- comentario 3
+c;
+c + 2*5;
